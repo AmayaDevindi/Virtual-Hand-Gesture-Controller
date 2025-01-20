@@ -1,7 +1,5 @@
 # Virtual Hand Gesture Controller
 
-#### Video Demo: https://youtu.be/9WjxP2HL_PY
-
 #### Description:
 This project lets you use your hand gestures to control things on your computer, like scrolling through pages or moving through presentation slides. You can interact with your computer without touching it, using a webcam to track your hand movements.
 
